@@ -18,11 +18,15 @@ header {
 }
 
 #works {
-    border-top: 1px dotted rgb(95, 95, 95);
+    border-top: 1px double rgb(95, 95, 95);
     display: flex;
 }
 
 .work {
     padding: 5px;
     margin: 5px;
+}
+
+.mainbody {
+    
 }
