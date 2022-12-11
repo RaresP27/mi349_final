@@ -6,6 +6,16 @@ body {
     margin: 30px;
 }
 
+header {
+    position: sticky;
+    top: 0px;
+}
+
+.Logo {
+    float: left;
+    margin-right: 20px;
+}
+
 #works {
     border-top: 1px dotted rgb(95, 95, 95);
     display: flex;
