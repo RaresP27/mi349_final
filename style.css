@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    font-family: Georgia;
+    color: white;
+}
+
+#Blog {
+    border-top: 1px dotted rgb(95, 95, 95);
+    display: flex;
+}
